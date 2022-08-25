@@ -8,5 +8,5 @@ This repository is created as a guidebook for members of the organization. Read 
 
 | Names      | Role       | LinkedIn|
  :----------  |:------------:|:------------:|
-|Rexford Machu|Vice President & Community Adminstrator|[Rexford Machu](https://www.linkedin.com/in/rexfordmachu/)|
-|Nii Odartey Lamptey|Fin. Secretary & Website Adminstrator|
+|Rexford Machu|Vice President & Community Administrator|[Rexford Machu](https://www.linkedin.com/in/rexfordmachu/)|
+|Nii Odartey Lamptey|Fin. Secretary & Website Administrator|
