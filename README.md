@@ -6,7 +6,7 @@ This repository is created as a guidebook for members of the organization. Read 
 - To ask a question, create an issue with the label ```question```
 - Be clear and stay on topic. Off-topic comments are a distraction and staying on topic helps produce positive and productive discussions.
 
-| Names      | Role       | LinkedIn|
- :----------  |:------------:|:------------:|
-|Rexford Machu|Vice President & Community Administrator|[Rexford Machu](https://www.linkedin.com/in/rexfordmachu/)|
+| Names      | Role       | LinkedIn| Year|
+ :----------  |:------------:|:------------:|:------------:|
+|Rexford Machu|Vice President & Community Administrator|[Rexford Machu](https://www.linkedin.com/in/rexfordmachu/)|2022|
 |Nii Odartey Lamptey|Fin. Secretary & Website Administrator|
